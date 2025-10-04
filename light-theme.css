@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: black;
+}
+
+.text-area {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-border-color: #cccccc;
+}
+
+.text-area .content {
+    -fx-background-color: white;
+}
+
+.menu-bar {
+    -fx-background-color: #e0e0e0;
+}
+
+.menu-bar .menu {
+    -fx-text-fill: black;
+}
+
+.menu-bar .menu-item {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.menu-bar .menu-item:hover {
+    -fx-background-color: #e0e0e0;
+}
